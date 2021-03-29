@@ -62,7 +62,7 @@ what you have tried and your results(subtracting the two word vectors)
 
 		I tried four combinations of two matrices and two distances. Among them,word2vector and cosine similarity have the highest accuracy. Around 0.4
 
-SAT analogy (COMPOSES cosine) Accuracy:      0.38 
-SAT analogy (COMPOSES euclidean) Accuracy: 0.35 
-SAT analogy (word2vector cosine) Accuracy:       0.41 
-SAT analogy (word2vector euclidean) Accuracy:  0.31 
+SAT analogy (COMPOSES cosine) Accuracy:    0.38
+SAT analogy (COMPOSES euclidean) Accuracy: 0.35
+SAT analogy (word2vector cosine) Accuracy: 0.41
+SAT analogy (word2vector euclidean) Accuracy: 0.31 
